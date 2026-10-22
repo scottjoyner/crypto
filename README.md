@@ -1,3 +1,9 @@
+<!-- repo-entrypoint-guide:start -->
+> **Repository context:** This is a Vercel React + serverless-functions example; the name `crypto` does not establish implemented exchange, wallet, or trading functionality. The README below still refers to the original Vercel example.
+> 
+> **Start here:** Review the project's dependency manifest and example function code, and configure only development credentials when testing a deployment.
+<!-- repo-entrypoint-guide:end -->
+
 ![React Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg)
 
 # React Example
